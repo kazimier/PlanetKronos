@@ -25,8 +25,8 @@ int motorPinB[NUM_MOTORS] = {4, 6, 8, 12, 14, 16, 18, 20};
 
 
 //switc Pins
-int switchPinA[NUM_MOTORS] = {22, 24, 26, 28, 30, 32, 34, 36};
-int switchPinB[NUM_MOTORS] = {23, 25, 27, 29, 31, 33, 35, 37};
+int switchPinA[NUM_MOTORS] = {39, 43, 47, 51, 35, 31, 27, 23};
+int switchPinB[NUM_MOTORS] = {41, 45, 49, 53, 37, 33, 29, 25};
 
 
 //Create UDP message object
